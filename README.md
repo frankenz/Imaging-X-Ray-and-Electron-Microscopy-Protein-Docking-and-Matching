@@ -1,4 +1,4 @@
-I developed computational tools to analyze the structural geometry, functional organization, dynamics and heterogeneity of 3D objects. The procedures evaluate the geometric complementarity between the objects using grid representation and fast Fourier transformations.
+Analyze the structural geometry, functional organization, dynamics and heterogeneity of Proteins. The procedures evaluate the geometric complementarity between the objects using grid representation and fast Fourier transformations.
 
 Algorithm I developed published at:
 
