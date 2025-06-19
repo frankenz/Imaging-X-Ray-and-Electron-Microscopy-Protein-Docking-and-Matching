@@ -5,11 +5,11 @@ Analyze the structural geometry, functional organization, dynamics and heterogen
 
 Algorithm I developed published at:
 
-https://www.ncbi.nlm.nih.gov/pubmed/18974836
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003594
 
-https://www.ncbi.nlm.nih.gov/pubmed/22578543
+https://www.cell.com/structure/fulltext/S0969-2126(12)00141-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212612001414%3Fshowall%3Dtrue
 
-https://www.ncbi.nlm.nih.gov/pubmed/23769668
+https://www.cell.com/structure/fulltext/S0969-2126(13)00157-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212613001573%3Fshowall%3Dtrue
 
 
 Method
