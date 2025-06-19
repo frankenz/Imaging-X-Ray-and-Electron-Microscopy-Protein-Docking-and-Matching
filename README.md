@@ -3,7 +3,7 @@
 
 Analyze the structural geometry, functional organization, dynamics and heterogeneity of Proteins. The procedures evaluate the geometric complementarity between the objects using grid representation and fast Fourier transformations.
 
-Algorithm I developed published at:
+Publications:
 
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003594
 
