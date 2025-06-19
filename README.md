@@ -12,6 +12,7 @@ https://www.cell.com/structure/fulltext/S0969-2126(12)00141-4?_returnURL=https%3
 https://www.cell.com/structure/fulltext/S0969-2126(13)00157-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212613001573%3Fshowall%3Dtrue
 
 
+
 Method
 
 The objects to be matched are represented by cubic grids. The center of the grid is at the centroid of the object and grid points are assigned values with regard to their position relative to the object. Grid points within the volume of any virtual atom are considered part of the object (interior or surface); other grid points are assigned “outside the object” values. Distinction between the interior and a surface layer is made for the stationary object A. The resultant grid representations are as follows:
