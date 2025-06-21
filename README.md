@@ -1,7 +1,7 @@
 # Protein-protein docking and matching
 
 
-Analyze the structural geometry, functional organization, dynamics and heterogeneity of Proteins. The procedures evaluate the geometric complementarity between the objects using grid representation and fast Fourier transformations.
+Analyze the structural geometry, functional organization, dynamics and heterogeneity of Proteins. The procedures evaluate the geometric complementarity between the objects using grid representation and fast Fourier transformations (1-5).
 
 References:
 1. A Unique spatial arrangement of the snRNPs within the native spliceosome emerges from in-silico studies. Frankenstein Z, Sperling J, Sperling R, Eisenstein M.     Structure. 2012 Jun 6;20(6):1097-106. Epub 2012 May 10.
