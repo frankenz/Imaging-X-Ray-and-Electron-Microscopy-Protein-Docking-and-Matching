@@ -3,15 +3,13 @@
 
 Analyze the structural geometry, functional organization, dynamics and heterogeneity of Proteins. The procedures evaluate the geometric complementarity between the objects using grid representation and fast Fourier transformations.
 
-Publications:
+References:
+1. A Unique spatial arrangement of the snRNPs within the native spliceosome emerges from in-silico studies. Frankenstein Z, Sperling J, Sperling R, Eisenstein M.     Structure. 2012 Jun 6;20(6):1097-106. Epub 2012 May 10.
+2. Variable internal flexibility characterizes the helical capsid formed by Agrobacterium VirE2 protein on single-stranded DNA. Bharat TA, Zbaida D, Eisenstein M,    Frankenstein Z, Mehlman T, Weiner L, Sorzano CO, Barak Y, Albeck S, Briggs JA, Wolf SG, Elbaum M. Structure. 2013 Jul 2;21(7):1158-67.
+3. In-silico study of the arrangement of the snRNPs within the native spliceosome. Frankenstein Z, Sperling J, Sperling R, Eisenstein M. Journal of Biomolecular      Structure and Dynamics. 2013 Jan 1;31(Special Issue):24-25.
+4. CAPRI targets T29-T42: Proving ground for new docking procedures. Eisenstein M, Ben-Shimon A*, Frankenstein Z*, Kowalsman N*. Proteins: Structure, Function, and   Bioinformatics. 2010 Nov 15;78(15):3174-81. *Equal contribution.
+5. FitEM2EM--tools for low resolution study of macromolecular assembly and dynamics. Frankenstein Z, Sperling J, Sperling R, Eisenstein M. PLoS One![image]
 
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003594
-
-https://www.cell.com/structure/fulltext/S0969-2126(12)00141-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212612001414%3Fshowall%3Dtrue
-
-https://www.cell.com/structure/fulltext/S0969-2126(13)00157-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212613001573%3Fshowall%3Dtrue
-
-https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.22793
 
 Method
 
