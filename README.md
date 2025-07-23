@@ -1,7 +1,7 @@
-# Protein-Protein Docking and Matching
+# X-Ray and Electron Microscopy Imaging: Protein-Protein Docking and Matching
 
 
-Analyze the structural geometry, functional organization, dynamics and heterogeneity of Proteins. The procedures evaluate the geometric complementarity between the objects via a six dimensional search in the rotation-translation space using grid representation and fast Fourier transformations (1-5).
+Analyze the structural geometry, functional organization, dynamics and heterogeneity of Proteins (X-Ray and Electron Microscopy). The procedures evaluate the geometric complementarity between the objects via a six dimensional search in the rotation-translation space using grid representation and fast Fourier transformations (1-5).
 
 
 
